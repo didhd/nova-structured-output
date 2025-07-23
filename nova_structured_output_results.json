@@ -1,0 +1,1352 @@
+[
+  {
+    "model": "Pro",
+    "method": "Output Schema",
+    "iteration": 1,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.907,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:14:47"
+  },
+  {
+    "model": "Pro",
+    "method": "Output Schema",
+    "iteration": 2,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.669,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:15:08"
+  },
+  {
+    "model": "Pro",
+    "method": "Output Schema",
+    "iteration": 3,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.702,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:15:29"
+  },
+  {
+    "model": "Pro",
+    "method": "Output Schema",
+    "iteration": 4,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.536,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:15:49"
+  },
+  {
+    "model": "Pro",
+    "method": "Output Schema",
+    "iteration": 5,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.67,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:16:10"
+  },
+  {
+    "model": "Pro",
+    "method": "Output Schema",
+    "iteration": 6,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.564,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:16:30"
+  },
+  {
+    "model": "Pro",
+    "method": "Output Schema",
+    "iteration": 7,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.566,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:16:51"
+  },
+  {
+    "model": "Pro",
+    "method": "Output Schema",
+    "iteration": 8,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.015,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:17:12"
+  },
+  {
+    "model": "Pro",
+    "method": "Output Schema",
+    "iteration": 9,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.668,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:17:33"
+  },
+  {
+    "model": "Pro",
+    "method": "Output Schema",
+    "iteration": 10,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.673,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:17:53"
+  },
+  {
+    "model": "Pro",
+    "method": "Prefilling",
+    "iteration": 1,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.749,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input.",
+      "nextQuestionId": "2"
+    },
+    "timestamp": "2025-07-22 21:18:14"
+  },
+  {
+    "model": "Pro",
+    "method": "Prefilling",
+    "iteration": 2,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.625,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input.",
+      "nextQuestionId": "2"
+    },
+    "timestamp": "2025-07-22 21:18:35"
+  },
+  {
+    "model": "Pro",
+    "method": "Prefilling",
+    "iteration": 3,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.959,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input. If you have any more information to share or questions for us, feel free to let us know.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:18:56"
+  },
+  {
+    "model": "Pro",
+    "method": "Prefilling",
+    "iteration": 4,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.549,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input.",
+      "nextQuestionId": "2"
+    },
+    "timestamp": "2025-07-22 21:19:16"
+  },
+  {
+    "model": "Pro",
+    "method": "Prefilling",
+    "iteration": 5,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.954,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input.",
+      "nextQuestionId": "2"
+    },
+    "timestamp": "2025-07-22 21:19:37"
+  },
+  {
+    "model": "Pro",
+    "method": "Prefilling",
+    "iteration": 6,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.812,
+    "key_output": {
+      "questionText": "Could you please share the name of your healthcare practice? We're excited to learn more about it!",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input and are excited to connect with you. If you have any questions or need further assistance, feel free to reach out. Have a wonderful day!",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:19:58"
+  },
+  {
+    "model": "Pro",
+    "method": "Prefilling",
+    "iteration": 7,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.62,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input.",
+      "nextQuestionId": "2"
+    },
+    "timestamp": "2025-07-22 21:20:19"
+  },
+  {
+    "model": "Pro",
+    "method": "Prefilling",
+    "iteration": 8,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.649,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input.",
+      "nextQuestionId": "2"
+    },
+    "timestamp": "2025-07-22 21:20:39"
+  },
+  {
+    "model": "Pro",
+    "method": "Prefilling",
+    "iteration": 9,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.563,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input.",
+      "nextQuestionId": "2"
+    },
+    "timestamp": "2025-07-22 21:21:00"
+  },
+  {
+    "model": "Pro",
+    "method": "Prefilling",
+    "iteration": 10,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.651,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We appreciate your input.",
+      "nextQuestionId": "2"
+    },
+    "timestamp": "2025-07-22 21:21:21"
+  },
+  {
+    "model": "Pro",
+    "method": "Tool Use",
+    "iteration": 1,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.748,
+    "key_output": {
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "healthcare_practice_name",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:21:42"
+  },
+  {
+    "model": "Pro",
+    "method": "Tool Use",
+    "iteration": 2,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.727,
+    "key_output": {
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "healthcare_practice_name",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:22:04"
+  },
+  {
+    "model": "Pro",
+    "method": "Tool Use",
+    "iteration": 3,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.699,
+    "key_output": {
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "healthcare_practice_name",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:22:26"
+  },
+  {
+    "model": "Pro",
+    "method": "Tool Use",
+    "iteration": 4,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.737,
+    "key_output": {
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "healthcare_practice_name",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:22:48"
+  },
+  {
+    "model": "Pro",
+    "method": "Tool Use",
+    "iteration": 5,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.703,
+    "key_output": {
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "healthcare_practice_name",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:23:09"
+  },
+  {
+    "model": "Pro",
+    "method": "Tool Use",
+    "iteration": 6,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.729,
+    "key_output": {
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "healthcare_practice_name",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:23:31"
+  },
+  {
+    "model": "Pro",
+    "method": "Tool Use",
+    "iteration": 7,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.697,
+    "key_output": {
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "healthcare_practice_name",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:23:53"
+  },
+  {
+    "model": "Pro",
+    "method": "Tool Use",
+    "iteration": 8,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.818,
+    "key_output": {
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "healthcare_practice_name",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:24:15"
+  },
+  {
+    "model": "Pro",
+    "method": "Tool Use",
+    "iteration": 9,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.729,
+    "key_output": {
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "healthcare_practice_name",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:24:36"
+  },
+  {
+    "model": "Pro",
+    "method": "Tool Use",
+    "iteration": 10,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.609,
+    "key_output": {
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "healthcare_practice_name",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:24:58"
+  },
+  {
+    "model": "Lite",
+    "method": "Output Schema",
+    "iteration": 1,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.75,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing! We're here to support your practice.",
+      "nextQuestionId": "optional next question identifier"
+    },
+    "timestamp": "2025-07-22 21:25:19"
+  },
+  {
+    "model": "Lite",
+    "method": "Output Schema",
+    "iteration": 2,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.737,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing! We're here to support you and your healthcare practice.",
+      "nextQuestionId": "optional next question identifier"
+    },
+    "timestamp": "2025-07-22 21:25:20"
+  },
+  {
+    "model": "Lite",
+    "method": "Output Schema",
+    "iteration": 3,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.613,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We're here to support you.",
+      "nextQuestionId": "optional next question identifier"
+    },
+    "timestamp": "2025-07-22 21:25:21"
+  },
+  {
+    "model": "Lite",
+    "method": "Output Schema",
+    "iteration": 4,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.661,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing! We're here to support you and your practice.",
+      "nextQuestionId": "optional next question identifier"
+    },
+    "timestamp": "2025-07-22 21:25:22"
+  },
+  {
+    "model": "Lite",
+    "method": "Output Schema",
+    "iteration": 5,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.533,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We're here to support you.",
+      "nextQuestionId": "optional next question identifier"
+    },
+    "timestamp": "2025-07-22 21:25:23"
+  },
+  {
+    "model": "Lite",
+    "method": "Output Schema",
+    "iteration": 6,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.784,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing! We're here to support your practice.",
+      "nextQuestionId": "optional next question identifier"
+    },
+    "timestamp": "2025-07-22 21:25:25"
+  },
+  {
+    "model": "Lite",
+    "method": "Output Schema",
+    "iteration": 7,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.708,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing! We're here to support your practice.",
+      "nextQuestionId": "optional next question identifier"
+    },
+    "timestamp": "2025-07-22 21:25:26"
+  },
+  {
+    "model": "Lite",
+    "method": "Output Schema",
+    "iteration": 8,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.405,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We're here to support you.",
+      "nextQuestionId": "optional next question identifier"
+    },
+    "timestamp": "2025-07-22 21:25:27"
+  },
+  {
+    "model": "Lite",
+    "method": "Output Schema",
+    "iteration": 9,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.714,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We're here to support you.",
+      "nextQuestionId": "optional next question identifier"
+    },
+    "timestamp": "2025-07-22 21:25:28"
+  },
+  {
+    "model": "Lite",
+    "method": "Output Schema",
+    "iteration": 10,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.613,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We're here to support you.",
+      "nextQuestionId": "optional next question identifier"
+    },
+    "timestamp": "2025-07-22 21:25:29"
+  },
+  {
+    "model": "Lite",
+    "method": "Prefilling",
+    "iteration": 1,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.817,
+    "key_output": {
+      "questionText": "Could you please tell me the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice with us. We appreciate your input.",
+      "nextQuestionId": "1"
+    },
+    "timestamp": "2025-07-22 21:25:30"
+  },
+  {
+    "model": "Lite",
+    "method": "Prefilling",
+    "iteration": 2,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.69,
+    "key_output": {
+      "questionText": "Could you please tell me the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice with us!",
+      "nextQuestionId": "1"
+    },
+    "timestamp": "2025-07-22 21:25:32"
+  },
+  {
+    "model": "Lite",
+    "method": "Prefilling",
+    "iteration": 3,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.58,
+    "key_output": {
+      "questionText": "Could you please provide the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice. We appreciate your input!",
+      "nextQuestionId": "1"
+    },
+    "timestamp": "2025-07-22 21:25:33"
+  },
+  {
+    "model": "Lite",
+    "method": "Prefilling",
+    "iteration": 4,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.704,
+    "key_output": {
+      "questionText": "Could you please tell me the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice with us!",
+      "nextQuestionId": "1"
+    },
+    "timestamp": "2025-07-22 21:25:34"
+  },
+  {
+    "model": "Lite",
+    "method": "Prefilling",
+    "iteration": 5,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.566,
+    "key_output": {
+      "questionText": "Could you please tell me the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice with us!",
+      "nextQuestionId": "1"
+    },
+    "timestamp": "2025-07-22 21:25:35"
+  },
+  {
+    "model": "Lite",
+    "method": "Prefilling",
+    "iteration": 6,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.819,
+    "key_output": {
+      "questionText": "Could you please tell me the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice with us!",
+      "nextQuestionId": "1"
+    },
+    "timestamp": "2025-07-22 21:25:36"
+  },
+  {
+    "model": "Lite",
+    "method": "Prefilling",
+    "iteration": 7,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.765,
+    "key_output": {
+      "questionText": "Could you please provide the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice. We appreciate your input!",
+      "nextQuestionId": "1"
+    },
+    "timestamp": "2025-07-22 21:25:37"
+  },
+  {
+    "model": "Lite",
+    "method": "Prefilling",
+    "iteration": 8,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.689,
+    "key_output": {
+      "questionText": "Could you please tell me the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice with us. We're here to support your practice and ensure the best care for your patients.",
+      "nextQuestionId": "1"
+    },
+    "timestamp": "2025-07-22 21:25:39"
+  },
+  {
+    "model": "Lite",
+    "method": "Prefilling",
+    "iteration": 9,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.961,
+    "key_output": {
+      "questionText": "Could you please tell me the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice with us!",
+      "nextQuestionId": "1"
+    },
+    "timestamp": "2025-07-22 21:25:40"
+  },
+  {
+    "model": "Lite",
+    "method": "Prefilling",
+    "iteration": 10,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.668,
+    "key_output": {
+      "questionText": "Could you please provide the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice. We appreciate your input!",
+      "nextQuestionId": "1"
+    },
+    "timestamp": "2025-07-22 21:25:41"
+  },
+  {
+    "model": "Lite",
+    "method": "Tool Use",
+    "iteration": 1,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.163,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "question2",
+      "questionText": "Please provide the name of your healthcare practice"
+    },
+    "timestamp": "2025-07-22 21:25:43"
+  },
+  {
+    "model": "Lite",
+    "method": "Tool Use",
+    "iteration": 2,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.193,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "question2",
+      "questionText": "Please provide the name of your healthcare practice"
+    },
+    "timestamp": "2025-07-22 21:25:45"
+  },
+  {
+    "model": "Lite",
+    "method": "Tool Use",
+    "iteration": 3,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.298,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "question2",
+      "questionText": "Please provide the name of your healthcare practice"
+    },
+    "timestamp": "2025-07-22 21:25:46"
+  },
+  {
+    "model": "Lite",
+    "method": "Tool Use",
+    "iteration": 4,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.376,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "question2",
+      "questionText": "Please provide the name of your healthcare practice"
+    },
+    "timestamp": "2025-07-22 21:25:48"
+  },
+  {
+    "model": "Lite",
+    "method": "Tool Use",
+    "iteration": 5,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.17,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "question2",
+      "questionText": "Please provide the name of your healthcare practice"
+    },
+    "timestamp": "2025-07-22 21:25:50"
+  },
+  {
+    "model": "Lite",
+    "method": "Tool Use",
+    "iteration": 6,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.119,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "question2",
+      "questionText": "Please provide the name of your healthcare practice"
+    },
+    "timestamp": "2025-07-22 21:25:52"
+  },
+  {
+    "model": "Lite",
+    "method": "Tool Use",
+    "iteration": 7,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.317,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "question2",
+      "questionText": "Please provide the name of your healthcare practice"
+    },
+    "timestamp": "2025-07-22 21:25:53"
+  },
+  {
+    "model": "Lite",
+    "method": "Tool Use",
+    "iteration": 8,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.316,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "question2",
+      "questionText": "Please provide the name of your healthcare practice"
+    },
+    "timestamp": "2025-07-22 21:25:55"
+  },
+  {
+    "model": "Lite",
+    "method": "Tool Use",
+    "iteration": 9,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.317,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "question2",
+      "questionText": "Please provide the name of your healthcare practice"
+    },
+    "timestamp": "2025-07-22 21:25:57"
+  },
+  {
+    "model": "Lite",
+    "method": "Tool Use",
+    "iteration": 10,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.17,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your healthcare practice!",
+      "questionType": "text",
+      "nextQuestionId": "question2",
+      "questionText": "Please provide the name of your healthcare practice"
+    },
+    "timestamp": "2025-07-22 21:25:59"
+  },
+  {
+    "model": "Micro",
+    "method": "Output Schema",
+    "iteration": 1,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.384,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "We'd love to know more about your practice! Please share the name with us.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:26:00"
+  },
+  {
+    "model": "Micro",
+    "method": "Output Schema",
+    "iteration": 2,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.521,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "We're excited to learn more about your practice! Every healthcare practice has its unique story and contributions.",
+      "nextQuestionId": "optional_next_question_identifier"
+    },
+    "timestamp": "2025-07-22 21:26:01"
+  },
+  {
+    "model": "Micro",
+    "method": "Output Schema",
+    "iteration": 3,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.379,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "We'd love to know more about your practice! Please share the name with us.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:26:02"
+  },
+  {
+    "model": "Micro",
+    "method": "Output Schema",
+    "iteration": 4,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.41,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "We'd love to know more about your practice! Please share the name with us.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:26:03"
+  },
+  {
+    "model": "Micro",
+    "method": "Output Schema",
+    "iteration": 5,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.391,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "We'd love to know more about your practice! Please share the name with us.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:26:03"
+  },
+  {
+    "model": "Micro",
+    "method": "Output Schema",
+    "iteration": 6,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.385,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "We'd love to know more about your practice! Please share the name with us.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:26:04"
+  },
+  {
+    "model": "Micro",
+    "method": "Output Schema",
+    "iteration": 7,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.409,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "We'd love to know more about your practice! Please share the name with us.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:26:05"
+  },
+  {
+    "model": "Micro",
+    "method": "Output Schema",
+    "iteration": 8,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.412,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "We'd love to know more about your practice! Please share the name with us.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:26:06"
+  },
+  {
+    "model": "Micro",
+    "method": "Output Schema",
+    "iteration": 9,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.389,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "We'd love to know more about your practice! Please share the name with us.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:26:07"
+  },
+  {
+    "model": "Micro",
+    "method": "Output Schema",
+    "iteration": 10,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.442,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "We'd love to know more about your practice! Please share the name with us.",
+      "nextQuestionId": null
+    },
+    "timestamp": "2025-07-22 21:26:08"
+  },
+  {
+    "model": "Micro",
+    "method": "Prefilling",
+    "iteration": 1,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.426,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! It's great to know where you provide such important care.",
+      "nextQuestionId": 2
+    },
+    "timestamp": "2025-07-22 21:26:09"
+  },
+  {
+    "model": "Micro",
+    "method": "Prefilling",
+    "iteration": 2,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.422,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! It's great to know where you provide such important care.",
+      "nextQuestionId": 2
+    },
+    "timestamp": "2025-07-22 21:26:10"
+  },
+  {
+    "model": "Micro",
+    "method": "Prefilling",
+    "iteration": 3,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.415,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! It's great to know where you provide such important care.",
+      "nextQuestionId": 2
+    },
+    "timestamp": "2025-07-22 21:26:11"
+  },
+  {
+    "model": "Micro",
+    "method": "Prefilling",
+    "iteration": 4,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.415,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! It's great to know where you provide such important care.",
+      "nextQuestionId": 2
+    },
+    "timestamp": "2025-07-22 21:26:12"
+  },
+  {
+    "model": "Micro",
+    "method": "Prefilling",
+    "iteration": 5,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.488,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! It's great to know where you provide such important care.",
+      "nextQuestionId": 2
+    },
+    "timestamp": "2025-07-22 21:26:13"
+  },
+  {
+    "model": "Micro",
+    "method": "Prefilling",
+    "iteration": 6,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.538,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! It's wonderful to know where you provide such important care.",
+      "nextQuestionId": "2"
+    },
+    "timestamp": "2025-07-22 21:26:14"
+  },
+  {
+    "model": "Micro",
+    "method": "Prefilling",
+    "iteration": 7,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.368,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! We're excited to assist you further.",
+      "nextQuestionId": "2"
+    },
+    "timestamp": "2025-07-22 21:26:15"
+  },
+  {
+    "model": "Micro",
+    "method": "Prefilling",
+    "iteration": 8,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.513,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! It's great to know where we can assist you further.",
+      "nextQuestionId": 2
+    },
+    "timestamp": "2025-07-22 21:26:16"
+  },
+  {
+    "model": "Micro",
+    "method": "Prefilling",
+    "iteration": 9,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.424,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! It's great to know where you provide such important care.",
+      "nextQuestionId": 2
+    },
+    "timestamp": "2025-07-22 21:26:17"
+  },
+  {
+    "model": "Micro",
+    "method": "Prefilling",
+    "iteration": 10,
+    "success": true,
+    "is_structured": true,
+    "duration": 0.436,
+    "key_output": {
+      "questionText": "What is the name of your healthcare practice?",
+      "questionType": "text",
+      "friendlyResponse": "Thank you for sharing the name of your healthcare practice! It's great to know where you provide such important care.",
+      "nextQuestionId": 2
+    },
+    "timestamp": "2025-07-22 21:26:18"
+  },
+  {
+    "model": "Micro",
+    "method": "Tool Use",
+    "iteration": 1,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.29,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your practice! Please share the name of your healthcare practice with us.",
+      "questionType": "text",
+      "nextQuestionId": "~/next_question_id",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:26:19"
+  },
+  {
+    "model": "Micro",
+    "method": "Tool Use",
+    "iteration": 2,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.191,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your practice! Please share the name of your healthcare practice with us.",
+      "questionType": "text",
+      "nextQuestionId": "~/next_question_id",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:26:21"
+  },
+  {
+    "model": "Micro",
+    "method": "Tool Use",
+    "iteration": 3,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.172,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your practice! Please share the name of your healthcare practice with us.",
+      "questionType": "text",
+      "nextQuestionId": "~/next_question_id",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:26:23"
+  },
+  {
+    "model": "Micro",
+    "method": "Tool Use",
+    "iteration": 4,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.167,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your practice! Please share the name of your healthcare practice with us.",
+      "questionType": "text",
+      "nextQuestionId": "~/next_question_id",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:26:24"
+  },
+  {
+    "model": "Micro",
+    "method": "Tool Use",
+    "iteration": 5,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.194,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your practice! Please share the name of your healthcare practice with us.",
+      "questionType": "text",
+      "nextQuestionId": "~/next_question_id",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:26:26"
+  },
+  {
+    "model": "Micro",
+    "method": "Tool Use",
+    "iteration": 6,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.193,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your practice! Please share the name of your healthcare practice with us.",
+      "questionType": "text",
+      "nextQuestionId": "~/next_question_id",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:26:28"
+  },
+  {
+    "model": "Micro",
+    "method": "Tool Use",
+    "iteration": 7,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.205,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your practice! Please share the name of your healthcare practice with us.",
+      "questionType": "text",
+      "nextQuestionId": "~/next_question_id",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:26:30"
+  },
+  {
+    "model": "Micro",
+    "method": "Tool Use",
+    "iteration": 8,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.198,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your practice! Please share the name of your healthcare practice with us.",
+      "questionType": "text",
+      "nextQuestionId": "~/next_question_id",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:26:31"
+  },
+  {
+    "model": "Micro",
+    "method": "Tool Use",
+    "iteration": 9,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.173,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your practice! Please share the name of your healthcare practice with us.",
+      "questionType": "text",
+      "nextQuestionId": "~/next_question_id",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:26:33"
+  },
+  {
+    "model": "Micro",
+    "method": "Tool Use",
+    "iteration": 10,
+    "success": true,
+    "is_structured": true,
+    "duration": 1.066,
+    "key_output": {
+      "friendlyResponse": "We'd love to know more about your practice! Please share the name of your healthcare practice with us.",
+      "questionType": "text",
+      "nextQuestionId": "~/next_question_id",
+      "questionText": "What is the name of your healthcare practice?"
+    },
+    "timestamp": "2025-07-22 21:26:34"
+  }
+]
